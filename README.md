@@ -13,6 +13,7 @@ Javaで作成した絵文字入りのかわいいコンソールおみくじア�
 
 ## 出力例
 
+![omikuji_console png](https://github.com/user-attachments/assets/ff4bf6fe-5645-4e68-b7b0-305062b94d59)
 
 
 ## 使用技術
